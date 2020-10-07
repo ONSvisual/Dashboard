@@ -1,0 +1,8 @@
+Indicator,Proportion of workforce on Furlough Leave,Percentage travelled to work,Company incorporations,Company voluntary dissolution applications,Total weekly online job adverts,Online price change in food and drinks basket,"Road traffic, all motor vehicles",Total ships visits
+Source,Office for National Statistics - Business Impact of Coronavirus (COVID-19) Survey,Office for National Statistics - Opinions and Lifestyle Survey,Companies House and Office for National Statistics,Companies House and Office for National Statistics,Adzuna,ONS online price collection,Department for Transport - Road traffic statistics: management information,exactEarth
+Units,Percentage of all responding businesses (excluding those permanently ceased trading),Proportion of adults in the survey,"Number of incorporations, on a weekly basis","Number of voluntary dissolution applications, on a weekly basis","Percentage point change, index: 2019 average = 100","Percentage point change, index: week 1 = 100","Percentage point change of the weekly average, index: equivalent day in the first week of February = 100","Number of daily ship visits, percentage change of the weekly average, seasonally adjusted"
+Weekly change,-1.8pp  ,2pp,3.3%,14.8%,1.8pp,0.5pp,-4.4pp,9.9%
+Positive,-1,1,1,1,1,1,-1,1
+decimal place (of data labels in sparkline),1,0,0,0,1,1,0,0
+Start date,1 to 14 Jun,14 to 17 May,07/02/2020,07/02/2020,07/02/2020,1 to 7 Jun,01/03/2020,01/02/2020
+End date,7 to 20 Sep,30 Sep to 4 Oct,02/10/2020,02/10/2020,02/10/2020,28 Sep to 4 Oct,05/10/2020,04/10/2020

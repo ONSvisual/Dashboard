@@ -1,0 +1,46 @@
+{
+    "essential" : {
+            "tableLayout": [8,4],
+            "dateFormat": "%d/%m/%Y",
+			      "dateFormatDisplay": "%d %b %y",
+            "sparkData": true,
+            "sparkDataName":"sparkdata",
+            "caption":"A summary table of the main faster indicators and how they changed in the last week and over time.",
+
+            "sourceText":["ONS, crime"],
+            "sourceURL":["https://www.ons.gov.uk"],
+
+            "xAxisinview":false,
+            "xAxisLabel":"",
+            "yAxisinview":false,
+            "nodes": true,
+            "values": true,
+            "alttext":[
+                    "Violence has decreased from 2,063,000 in 1981 to 1,285,000 in 2019.",
+                    "Homicide has decreased from 1,047 in 2003 to 617 in 2019.",
+                    "Knife or sharp instrument crime has increased from 30,620 in 2011 to 44,771 in 2019.",
+                    "Theft has decreased from 6,292,000 in 1981 to 3,578,000 in 2019.",
+                    "Burglary has decreased from 890,099 in 2003 to 380,567 in 2019.",
+                    "Vehicle offences has decreased from 1,074,659 in 2003 to 441,351 in 2019.",
+                    "Robbery has decreased from 110,271 in 2003 to 82,542 in 2019.",
+                    "Fraud has increased from 3,395,000 in 2017 to 3,797,000 in 2019.",
+                    "Computer misuse has decreased from 1,764,000 in 2017 to 1,006,000 in 2019."
+                  ],
+            "margin_centre": [2,2,2]
+    },
+    "optional" : {
+            "margin_sm": [18, 15, 20, 38],
+            "margin_md": [20, 15, 20, 38],
+            "margin_lg": [20, 15, 20, 38],
+
+            "aspectRatio_sm" : [8,8],
+            "aspectRatio_md" : [12,10],
+            "aspectRatio_lg" : [12,10],
+
+            "mobileBreakpoint" : 510,
+
+            "x_num_ticks_sm_md_lg" : [3,6,6],
+            "centre_line" : false,
+            "centre_line_value" : 0
+    }
+}
